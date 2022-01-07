@@ -1,4 +1,4 @@
-Steps for setup:
+# Steps for setup:
 1. Download kafka from kafka website.
 2. Unzip folder :
       tar -xzf kafka_2.13-3.0.0.tgz
