@@ -15,3 +15,7 @@
 
 6. To write events via Kafka Command Line, 
 bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
+
+#Regarding Producer
+1. Hit server endpoint with GET request (can be done from browser). (eg : localhost:8081/publish/<message_to_be_published>)
+2. Check in kafka consumer console if message is getting printed
