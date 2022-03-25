@@ -17,4 +17,4 @@
 bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
 
 # Regarding Producer
-1. Hit server endpoint with GET request (POSTMAN)
+1. Hit server endpoint with message(string) to be added to topic (POSTMAN).
